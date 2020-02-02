@@ -1,0 +1,9 @@
+# bot config file
+
+# make sure to put your own unique token here!
+token:
+prefix: "!"
+
+# a list of all cogs we are loading when starting up the bot
+load_extensions:
+    - cogs.example.py
